@@ -32,3 +32,21 @@ C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Business\obj\Debug\net6.0\Dooran
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Business\obj\Debug\net6.0\refint\DoorangMVC.Business.dll
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.pdb
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Business\obj\Debug\net6.0\ref\DoorangMVC.Business.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Business.deps.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Business.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Business.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Core.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Data.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Data.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\bin\Debug\net6.0\DoorangMVC.Core.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.sourcelink.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangM.43DEBEF8.Up2Date
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\refint\DoorangMVC.Business.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\DoorangMVC.Business.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Business\obj\Debug\net6.0\ref\DoorangMVC.Business.dll

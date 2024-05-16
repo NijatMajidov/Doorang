@@ -1,5 +1,6 @@
-﻿<div class="container mt-5 pt-5">
-    <div class="row">
+﻿@model LoginDto
+<div class="container mt-5 pt-5">
+    <div class="text-center">
         <main class="main-content justify-content-center">
             <div class="breadcrumb-area breadcrumb-height"
                  data-bg-image="~/assets/images/breadcrumb/bg/1-1-1919x388.jpg">
@@ -23,30 +24,34 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
-                            <form action="#">
+                            <form method="post">
                                 <div class="login-form">
                                     <h4 class="login-title">Login</h4>
-                                    <div class="row">
-                                        <div >
-                                            <label >Email Address*</label>
-                                            <input type="email" placeholder="Email Address" />
+                                    <div>
+                                        <div data-mdb-input-init class="form-outline">
+                                            <label class="form-label" asp-for="EmailOrUsername">Username Or Email</label>
+                                            <input asp-for="EmailOrUsername" placeholder="Username Or Email" class="form-control" />
                                         </div>
-                                        <div >
-                                            <label>Password</label>
-                                            <input type="password" placeholder="Password" />
+                                        <div data-mdb-input-init class="form-outline">
+                                            <label class="form-label" asp-for="Password">Password</label>
+                                            <input asp-for="Password" placeholder="Password" class="form-control" />
                                         </div>
-                                        <div class="col-md-8">
-                                            <div class="check-box">
-                                                <input type="checkbox"/>
-                                                <label for="remember_me">Remember me</label>
+                                        <div class="row mb-4">
+                                            <div class="col-md-6 d-flex justify-content-center">
+                                                <!-- Checkbox -->
+                                                <div class="form-check mb-3 mb-md-0">
+                                                    <input class="form-check-input" asp-for="IsRemember" />
+                                                    <label class="form-check-label" asp-for="IsRemember"> Remember me </label>
+                                                </div>
                                             </div>
-                                        </div>
                                         <div class="col-md-4 pt-1 mt-md-0">
                                             <div class="forgotton-password_info">
                                                 <a href="#"> Forgotten pasward?</a>
                                             </div>
                                         </div>
-                                        <div class="col-lg-12 pt-5">
+                                        <div asp-validation-summary=All>
+                                        </div>
+                                        <div class="col-lg-12">
                                             <button class="btn btn-primary">
                                                 Login
                                             </button>

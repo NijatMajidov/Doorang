@@ -9,77 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoorangMVC
 build_property.RootNamespace = DoorangMVC
-build_property.ProjectDir = C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC\
+build_property.ProjectDir = C:\Users\user\Desktop\Doorang\DoorangMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Doorang\DoorangMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/DashBoard/Index.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/Explore/Create.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/Explore/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEV4cGxvcmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/Explore/Delete.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/Explore/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEV4cGxvcmVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/Explore/Index.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/Explore/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEV4cGxvcmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/Explore/Update.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/Explore/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEV4cGxvcmVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Account/Login.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Account/Register.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Home/Index.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Home/Privacy.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Shared/Error.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/DoorangMVC/DoorangMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/Doorang/DoorangMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-amizv2fzsj

@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Doorang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADC6ADD-B876-4BFB-8C3E-9F4CE74E0938}|DoorangMVC\\DoorangMVC.csproj|c:\\users\\user\\desktop\\doorang\\doorangmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ADC6ADD-B876-4BFB-8C3E-9F4CE74E0938}|DoorangMVC\\DoorangMVC.csproj|solutionrelative:doorangmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADC6ADD-B876-4BFB-8C3E-9F4CE74E0938}|DoorangMVC\\DoorangMVC.csproj|c:\\users\\user\\desktop\\doorang\\doorangmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ADC6ADD-B876-4BFB-8C3E-9F4CE74E0938}|DoorangMVC\\DoorangMVC.csproj|solutionrelative:doorangmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADC6ADD-B876-4BFB-8C3E-9F4CE74E0938}|DoorangMVC\\DoorangMVC.csproj|c:\\users\\user\\desktop\\doorang\\doorangmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADC6ADD-B876-4BFB-8C3E-9F4CE74E0938}|DoorangMVC\\DoorangMVC.csproj|solutionrelative:doorangmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DoorangMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DoorangMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:42:32.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DoorangMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "DoorangMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:30:10.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoorangMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoorangMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:43:24.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

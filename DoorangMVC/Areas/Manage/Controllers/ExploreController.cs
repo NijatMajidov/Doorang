@@ -1,11 +1,13 @@
 ﻿using DoorangMVC.Business.Exceptions;
 using DoorangMVC.Business.Services.Abstract;
 using DoorangMVC.Core.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DoorangMVC.Areas.Manage.Controllers
 {
     [Area("Manage")]
+    [Authorize(Roles = "Admin")]
     public class ExploreController : Controller
     {
         private readonly IExploreService _exploreService;

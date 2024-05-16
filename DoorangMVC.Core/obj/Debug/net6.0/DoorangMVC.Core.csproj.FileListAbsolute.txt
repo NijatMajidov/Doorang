@@ -22,3 +22,16 @@ C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Core\obj\Debug\net6.0\refint\DoorangMVC.Core.dll
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.pdb
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Core\obj\Debug\net6.0\ref\DoorangMVC.Core.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\bin\Debug\net6.0\DoorangMVC.Core.deps.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\bin\Debug\net6.0\DoorangMVC.Core.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\bin\Debug\net6.0\DoorangMVC.Core.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.sourcelink.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\refint\DoorangMVC.Core.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\DoorangMVC.Core.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Core\obj\Debug\net6.0\ref\DoorangMVC.Core.dll

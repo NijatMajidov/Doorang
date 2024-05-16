@@ -895,23 +895,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ll novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ll novbe\\Desktop\\DoorangMVC\\DoorangMVC.Core\\DoorangMVC.Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC.Core\\DoorangMVC.Core.csproj",
       "projectName": "DoorangMVC.Core",
-      "projectPath": "C:\\Users\\ll novbe\\Desktop\\DoorangMVC\\DoorangMVC.Core\\DoorangMVC.Core.csproj",
-      "packagesPath": "C:\\Users\\ll novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ll novbe\\Desktop\\DoorangMVC\\DoorangMVC.Core\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC.Core\\DoorangMVC.Core.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Doorang\\DoorangMVC.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ll novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -920,7 +920,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -933,6 +932,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -964,7 +968,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

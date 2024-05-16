@@ -32,3 +32,21 @@ C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Data\obj\Debug\net6.0\refint\Doo
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.pdb
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.genruntimeconfig.cache
 C:\Users\ll novbe\Desktop\DoorangMVC\DoorangMVC.Data\obj\Debug\net6.0\ref\DoorangMVC.Data.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\bin\Debug\net6.0\DoorangMVC.Data.deps.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\bin\Debug\net6.0\DoorangMVC.Data.runtimeconfig.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\bin\Debug\net6.0\DoorangMVC.Data.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\bin\Debug\net6.0\DoorangMVC.Data.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\bin\Debug\net6.0\DoorangMVC.Core.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\bin\Debug\net6.0\DoorangMVC.Core.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.sourcelink.json
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangM.34C35213.Up2Date
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\refint\DoorangMVC.Data.dll
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.pdb
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\DoorangMVC.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Doorang\DoorangMVC.Data\obj\Debug\net6.0\ref\DoorangMVC.Data.dll

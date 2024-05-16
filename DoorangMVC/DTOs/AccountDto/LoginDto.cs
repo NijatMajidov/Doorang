@@ -14,7 +14,6 @@ namespace DoorangMVC.Core.Models.DTOs.AccountDto
         [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }
-        [Required]
-        public string Remember { get; set; }
+        public bool IsRemember { get; set; }
     }
 }

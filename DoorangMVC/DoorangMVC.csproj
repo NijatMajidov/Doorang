@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\Manage\Data\**" />
+    <Compile Remove="Areas\Manage\Models\**" />
+    <Content Remove="Areas\Manage\Data\**" />
+    <Content Remove="Areas\Manage\Models\**" />
+    <EmbeddedResource Remove="Areas\Manage\Data\**" />
+    <EmbeddedResource Remove="Areas\Manage\Models\**" />
+    <None Remove="Areas\Manage\Data\**" />
+    <None Remove="Areas\Manage\Models\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.30">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoorangMVC.Business\DoorangMVC.Business.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\uploads\explores\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Account\Register.cshtml" />
+  </ItemGroup>
+
+</Project>
